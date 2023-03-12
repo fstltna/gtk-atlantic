@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<gtkatlantic>
+
+
+	<pngfile_board filename="board.png">
+		<buffer id="0"  x="381" y="381" width="59" height="59" />
+		<buffer id="1"  x="346" y="381" width="35" height="59" />
+		<buffer id="2"  x="310" y="381" width="36" height="59" />
+		<buffer id="3"  x="274" y="381" width="36" height="59" />
+		<buffer id="4"  x="238" y="381" width="36" height="59" />
+		<buffer id="5"  x="202" y="381" width="36" height="59" />
+		<buffer id="6"  x="166" y="381" width="36" height="59" />
+		<buffer id="7"  x="130" y="381" width="36" height="59" />
+		<buffer id="8"  x="94"  y="381" width="36" height="59" />
+		<buffer id="9"  x="59"  y="381" width="35" height="59" />
+		<buffer id="10" x="0"   y="381" width="59" height="59" />
+		<buffer id="11" x="0"   y="346" width="59" height="35" />
+		<buffer id="12" x="0"   y="310" width="59" height="36" />
+		<buffer id="13" x="0"   y="274" width="59" height="36" />
+		<buffer id="14" x="0"   y="238" width="59" height="36" />
+		<buffer id="15" x="0"   y="202" width="59" height="36" />
+		<buffer id="16" x="0"   y="166" width="59" height="36" />
+		<buffer id="17" x="0"   y="130" width="59" height="36" />
+		<buffer id="18" x="0"   y="94"  width="59" height="36" />
+		<buffer id="19" x="0"   y="59"  width="59" height="35" />
+		<buffer id="20" x="0"   y="0"   width="59" height="59" />
+		<buffer id="21" x="59"  y="0"   width="35" height="59" />
+		<buffer id="22" x="94"  y="0"   width="36" height="59" />
+		<buffer id="23" x="130" y="0"   width="36" height="59" />
+		<buffer id="24" x="166" y="0"   width="36" height="59" />
+		<buffer id="25" x="202" y="0"   width="36" height="59" />
+		<buffer id="26" x="238" y="0"   width="36" height="59" />
+		<buffer id="27" x="274" y="0"   width="36" height="59" />
+		<buffer id="28" x="310" y="0"   width="36" height="59" />
+		<buffer id="29" x="346" y="0"   width="35" height="59" />
+		<buffer id="30" x="381" y="0"   width="59" height="59" />
+		<buffer id="31" x="381" y="59"  width="59" height="35" />
+		<buffer id="32" x="381" y="94"  width="59" height="36" />
+		<buffer id="33" x="381" y="130" width="59" height="36" />
+		<buffer id="34" x="381" y="166" width="59" height="36" />
+		<buffer id="35" x="381" y="202" width="59" height="36" />
+		<buffer id="36" x="381" y="238" width="59" height="36" />
+		<buffer id="37" x="381" y="274" width="59" height="36" />
+		<buffer id="38" x="381" y="310" width="59" height="36" />
+		<buffer id="39" x="381" y="346" width="59" height="35" />
+	</pngfile_board>
+
+
+	<pngfile_tokens filename="tokens.png">
+		<buffer id="0"  x="0"   y="0" width="20" height="20" />
+		<buffer id="1"  x="20"  y="0" width="20" height="20" />
+		<buffer id="2"  x="40"  y="0" width="20" height="20" />
+		<buffer id="3"  x="60"  y="0" width="20" height="20" />
+		<buffer id="4"  x="80"  y="0" width="20" height="20" />
+		<buffer id="5"  x="100" y="0" width="20" height="20" />
+		<buffer id="6"  x="120" y="0" width="20" height="20" />
+		<buffer id="7"  x="140" y="0" width="20" height="20" />
+		<buffer id="8"  x="160" y="0" width="20" height="20" />
+	</pngfile_tokens>
+
+
+	<pngfile_cards filename="cards.png">
+		<buffer id="0"  x="0"   y="0" width="13" height="20" />
+		<buffer id="1"  x="13"  y="0" width="13" height="20" />
+		<buffer id="2"  x="26"  y="0" width="13" height="20" />
+		<buffer id="3"  x="39"  y="0" width="13" height="20" />
+		<buffer id="4"  x="52"  y="0" width="13" height="20" />
+		<buffer id="5"  x="65"  y="0" width="13" height="20" />
+		<buffer id="6"  x="78"  y="0" width="13" height="20" />
+		<buffer id="7"  x="91"  y="0" width="13" height="20" />
+		<buffer id="8"  x="104" y="0" width="13" height="20" />
+		<buffer id="9"  x="117" y="0" width="13" height="20" />
+		<buffer id="10" x="130" y="0" width="13" height="20" />
+	</pngfile_cards>
+
+
+	<pngfile_stars filename="stars.png">
+		<buffer id="0"  x="0"   y="0" width="20" height="19" />
+		<buffer id="1"  x="20"  y="0" width="20" height="19" />
+		<buffer id="2"  x="40"  y="0" width="20" height="19" />
+		<buffer id="3"  x="60"  y="0" width="20" height="19" />
+		<buffer id="4"  x="80"  y="0" width="20" height="19" />
+		<buffer id="5"  x="100" y="0" width="20" height="19" />
+		<buffer id="6"  x="120" y="0" width="20" height="19" />
+		<buffer id="7"  x="140" y="0" width="20" height="19" />
+		<buffer id="8"  x="160" y="0" width="20" height="19" />
+	</pngfile_stars>
+
+
+	<pngfile_stars_m filename="stars_m.png">
+		<buffer id="0"  x="0"   y="0" width="20" height="19" />
+		<buffer id="1"  x="20"  y="0" width="20" height="19" />
+		<buffer id="2"  x="40"  y="0" width="20" height="19" />
+		<buffer id="3"  x="60"  y="0" width="20" height="19" />
+		<buffer id="4"  x="80"  y="0" width="20" height="19" />
+		<buffer id="5"  x="100" y="0" width="20" height="19" />
+		<buffer id="6"  x="120" y="0" width="20" height="19" />
+		<buffer id="7"  x="140" y="0" width="20" height="19" />
+		<buffer id="8"  x="160" y="0" width="20" height="19" />
+	</pngfile_stars_m>
+
+
+	<pngfile_commands filename="commands.png">
+		<buffer id="0"  x="0"   y="0" width="68" height="32" />
+		<buffer id="1"  x="68"  y="0" width="75" height="32" />
+	</pngfile_commands>
+
+
+	<pngfile_horiz_houses filename="houses.png">
+		<buffer id="0"  x="0"  y="0"   width="36" height="15" />
+		<buffer id="1"  x="0"  y="15"  width="36" height="15" />
+		<buffer id="2"  x="0"  y="30"  width="36" height="15" />
+		<buffer id="3"  x="0"  y="45"  width="36" height="15" />
+		<buffer id="4"  x="0"  y="60"  width="36" height="15" />
+		<buffer id="5"  x="0"  y="75"  width="36" height="15" />
+	</pngfile_horiz_houses>
+
+
+	<pngfile_vert_houses filename="houses.png">
+		<buffer id="0"  x="36"  y="0"  width="15" height="36" />
+		<buffer id="1"  x="51"  y="0"  width="15" height="36" />
+		<buffer id="2"  x="66"  y="0"  width="15" height="36" />
+		<buffer id="3"  x="81"  y="0"  width="15" height="36" />
+		<buffer id="4"  x="96"  y="0"  width="15" height="36" />
+		<buffer id="5"  x="111" y="0"  width="15" height="36" />
+	</pngfile_vert_houses>
+
+
+
+
+	<display_board width="440" height="440" center_x="59" center_y="59" center_width="322" center_height="322">
+		<estate id="0"  x="381" y="381" buffer_board="0"  x1token="4"  y1token="37" x2token="37" y2token="37" x1jail="4"  y1jail="4"  x2jail="21" y2jail="21" xstar="37" ystar="7"  xhouse="0"  yhouse="0"  type_house="none"       />
+		<estate id="1"  x="346" y="381" buffer_board="1"  x1token="3"  y1token="37" x2token="13" y2token="37" x1jail="3"  y1jail="28" x2jail="13" y2jail="28" xstar="8"  ystar="15" xhouse="0"  yhouse="0"  type_house="horizontal" />
+		<estate id="2"  x="310" y="381" buffer_board="2"  x1token="3"  y1token="37" x2token="13" y2token="37" x1jail="3"  y1jail="28" x2jail="13" y2jail="28" xstar="8"  ystar="15" xhouse="0"  yhouse="0"  type_house="horizontal" />
+		<estate id="3"  x="274" y="381" buffer_board="3"  x1token="3"  y1token="37" x2token="13" y2token="37" x1jail="3"  y1jail="28" x2jail="13" y2jail="28" xstar="8"  ystar="15" xhouse="0"  yhouse="0"  type_house="horizontal" />
+		<estate id="4"  x="238" y="381" buffer_board="4"  x1token="3"  y1token="37" x2token="13" y2token="37" x1jail="3"  y1jail="28" x2jail="13" y2jail="28" xstar="8"  ystar="15" xhouse="0"  yhouse="0"  type_house="horizontal" />
+		<estate id="5"  x="202" y="381" buffer_board="5"  x1token="3"  y1token="37" x2token="13" y2token="37" x1jail="3"  y1jail="28" x2jail="13" y2jail="28" xstar="8"  ystar="15" xhouse="0"  yhouse="0"  type_house="horizontal" />
+		<estate id="6"  x="166" y="381" buffer_board="6"  x1token="3"  y1token="37" x2token="13" y2token="37" x1jail="3"  y1jail="28" x2jail="13" y2jail="28" xstar="8"  ystar="15" xhouse="0"  yhouse="0"  type_house="horizontal" />
+		<estate id="7"  x="130" y="381" buffer_board="7"  x1token="3"  y1token="37" x2token="13" y2token="37" x1jail="3"  y1jail="28" x2jail="13" y2jail="28" xstar="8"  ystar="15" xhouse="0"  yhouse="0"  type_house="horizontal" />
+		<estate id="8"  x="94"  y="381" buffer_board="8"  x1token="3"  y1token="37" x2token="13" y2token="37" x1jail="3"  y1jail="28" x2jail="13" y2jail="28" xstar="8"  ystar="15" xhouse="0"  yhouse="0"  type_house="horizontal" />
+		<estate id="9"  x="59"  y="381" buffer_board="9"  x1token="2"  y1token="37" x2token="12" y2token="37" x1jail="2"  y1jail="28" x2jail="12" y2jail="28" xstar="7"  ystar="15" xhouse="-1" yhouse="0"  type_house="horizontal" />
+		<estate id="10" x="0"   y="381" buffer_board="10" x1token="2"  y1token="4"  x2token="2"  y2token="37" x1jail="35" y1jail="4"  x2jail="18" y2jail="21" xstar="32" ystar="7"  xhouse="0"  yhouse="0"  type_house="none"       />
+		<estate id="11" x="0"   y="346" buffer_board="11" x1token="2"  y1token="3"  x2token="2"  y2token="13" x1jail="11" y1jail="3"  x2jail="11" y2jail="13" xstar="23" ystar="8"  xhouse="44" yhouse="0"  type_house="vertical"   />
+		<estate id="12" x="0"   y="310" buffer_board="12" x1token="2"  y1token="3"  x2token="2"  y2token="13" x1jail="11" y1jail="3"  x2jail="11" y2jail="13" xstar="23" ystar="8"  xhouse="44" yhouse="0"  type_house="vertical"   />
+		<estate id="13" x="0"   y="274" buffer_board="13" x1token="2"  y1token="3"  x2token="2"  y2token="13" x1jail="11" y1jail="3"  x2jail="11" y2jail="13" xstar="23" ystar="8"  xhouse="44" yhouse="0"  type_house="vertical"   />
+		<estate id="14" x="0"   y="238" buffer_board="14" x1token="2"  y1token="3"  x2token="2"  y2token="13" x1jail="11" y1jail="3"  x2jail="11" y2jail="13" xstar="23" ystar="8"  xhouse="44" yhouse="0"  type_house="vertical"   />
+		<estate id="15" x="0"   y="202" buffer_board="15" x1token="2"  y1token="3"  x2token="2"  y2token="13" x1jail="11" y1jail="3"  x2jail="11" y2jail="13" xstar="23" ystar="8"  xhouse="44" yhouse="0"  type_house="vertical"   />
+		<estate id="16" x="0"   y="166" buffer_board="16" x1token="2"  y1token="3"  x2token="2"  y2token="13" x1jail="11" y1jail="3"  x2jail="11" y2jail="13" xstar="23" ystar="8"  xhouse="44" yhouse="0"  type_house="vertical"   />
+		<estate id="17" x="0"   y="130" buffer_board="17" x1token="2"  y1token="3"  x2token="2"  y2token="13" x1jail="11" y1jail="3"  x2jail="11" y2jail="13" xstar="23" ystar="8"  xhouse="44" yhouse="0"  type_house="vertical"   />
+		<estate id="18" x="0"   y="94"  buffer_board="18" x1token="2"  y1token="3"  x2token="2"  y2token="13" x1jail="11" y1jail="3"  x2jail="11" y2jail="13" xstar="23" ystar="8"  xhouse="44" yhouse="0"  type_house="vertical"   />
+		<estate id="19" x="0"   y="59"  buffer_board="19" x1token="2"  y1token="2"  x2token="2"  y2token="12" x1jail="11" y1jail="2"  x2jail="11" y2jail="12" xstar="23" ystar="7"  xhouse="44" yhouse="-1" type_house="vertical"   />
+		<estate id="20" x="0"   y="0"   buffer_board="20" x1token="35" y1token="2"  x2token="2"  y2token="2"  x1jail="35" y1jail="35" x2jail="18" y2jail="18" xstar="32" ystar="33" xhouse="0"  yhouse="0"  type_house="none"       />
+		<estate id="21" x="59"  y="0"   buffer_board="21" x1token="12" y1token="2"  x2token="2"  y2token="2"  x1jail="12" y1jail="11" x2jail="2"  y2jail="11" xstar="7"  ystar="24" xhouse="-1" yhouse="44" type_house="horizontal" />
+		<estate id="22" x="94"  y="0"   buffer_board="22" x1token="13" y1token="2"  x2token="3"  y2token="2"  x1jail="13" y1jail="11" x2jail="3"  y2jail="11" xstar="8"  ystar="24" xhouse="0"  yhouse="44" type_house="horizontal" />
+		<estate id="23" x="130" y="0"   buffer_board="23" x1token="13" y1token="2"  x2token="3"  y2token="2"  x1jail="13" y1jail="11" x2jail="3"  y2jail="11" xstar="8"  ystar="24" xhouse="0"  yhouse="44" type_house="horizontal" />
+		<estate id="24" x="166" y="0"   buffer_board="24" x1token="13" y1token="2"  x2token="3"  y2token="2"  x1jail="13" y1jail="11" x2jail="3"  y2jail="11" xstar="8"  ystar="24" xhouse="0"  yhouse="44" type_house="horizontal" />
+		<estate id="25" x="202" y="0"   buffer_board="25" x1token="13" y1token="2"  x2token="3"  y2token="2"  x1jail="13" y1jail="11" x2jail="3"  y2jail="11" xstar="8"  ystar="24" xhouse="0"  yhouse="44" type_house="horizontal" />
+		<estate id="26" x="238" y="0"   buffer_board="26" x1token="13" y1token="2"  x2token="3"  y2token="2"  x1jail="13" y1jail="11" x2jail="3"  y2jail="11" xstar="8"  ystar="24" xhouse="0"  yhouse="44" type_house="horizontal" />
+		<estate id="27" x="274" y="0"   buffer_board="27" x1token="13" y1token="2"  x2token="3"  y2token="2"  x1jail="13" y1jail="11" x2jail="3"  y2jail="11" xstar="8"  ystar="24" xhouse="0"  yhouse="44" type_house="horizontal" />
+		<estate id="28" x="310" y="0"   buffer_board="28" x1token="13" y1token="2"  x2token="3"  y2token="2"  x1jail="13" y1jail="11" x2jail="3"  y2jail="11" xstar="8"  ystar="24" xhouse="0"  yhouse="44" type_house="horizontal" />
+		<estate id="29" x="346" y="0"   buffer_board="29" x1token="13" y1token="2"  x2token="3"  y2token="2"  x1jail="13" y1jail="11" x2jail="3"  y2jail="11" xstar="8"  ystar="24" xhouse="0"  yhouse="44" type_house="horizontal" />
+		<estate id="30" x="381" y="0"   buffer_board="30" x1token="37" y1token="35" x2token="37" y2token="2"  x1jail="4"  y1jail="35" x2jail="21" y2jail="18" xstar="7"  ystar="33" xhouse="0"  yhouse="0"  type_house="none"       />
+		<estate id="31" x="381" y="59"  buffer_board="31" x1token="37" y1token="12" x2token="37" y2token="2"  x1jail="28" y1jail="12" x2jail="28" y2jail="2"  xstar="16" ystar="7"  xhouse="0"  yhouse="-1" type_house="vertical"   />
+		<estate id="32" x="381" y="94"  buffer_board="32" x1token="37" y1token="13" x2token="37" y2token="3"  x1jail="28" y1jail="13" x2jail="28" y2jail="3"  xstar="16" ystar="8"  xhouse="0"  yhouse="0"  type_house="vertical"   />
+		<estate id="33" x="381" y="130" buffer_board="33" x1token="37" y1token="13" x2token="37" y2token="3"  x1jail="28" y1jail="13" x2jail="28" y2jail="3"  xstar="16" ystar="8"  xhouse="0"  yhouse="0"  type_house="vertical"   />
+		<estate id="34" x="381" y="166" buffer_board="34" x1token="37" y1token="13" x2token="37" y2token="3"  x1jail="28" y1jail="13" x2jail="28" y2jail="3"  xstar="16" ystar="8"  xhouse="0"  yhouse="0"  type_house="vertical"   />
+		<estate id="35" x="381" y="202" buffer_board="35" x1token="37" y1token="13" x2token="37" y2token="3"  x1jail="28" y1jail="13" x2jail="28" y2jail="3"  xstar="16" ystar="8"  xhouse="0"  yhouse="0"  type_house="vertical"   />
+		<estate id="36" x="381" y="238" buffer_board="36" x1token="37" y1token="13" x2token="37" y2token="3"  x1jail="28" y1jail="13" x2jail="28" y2jail="3"  xstar="16" ystar="8"  xhouse="0"  yhouse="0"  type_house="vertical"   />
+		<estate id="37" x="381" y="274" buffer_board="37" x1token="37" y1token="13" x2token="37" y2token="3"  x1jail="28" y1jail="13" x2jail="28" y2jail="3"  xstar="16" ystar="8"  xhouse="0"  yhouse="0"  type_house="vertical"   />
+		<estate id="38" x="381" y="310" buffer_board="38" x1token="37" y1token="13" x2token="37" y2token="3"  x1jail="28" y1jail="13" x2jail="28" y2jail="3"  xstar="16" ystar="8"  xhouse="0"  yhouse="0"  type_house="vertical"   />
+		<estate id="39" x="381" y="346" buffer_board="39" x1token="37" y1token="13" x2token="37" y2token="3"  x1jail="28" y1jail="13" x2jail="28" y2jail="3"  xstar="16" ystar="8"  xhouse="0"  yhouse="0"  type_house="vertical"   />
+	</display_board>
+
+
+	<display_playertoken width="39" height="50" />
+
+
+	<display_playercard width="209" height="34" xoffset="10" yoffset="0" alphaunowned="0x30" alphaowned="0xff" alphamortgage="0x96" cardbgcolor="0xffffff" cardbgcolormortgage="0xffffff">
+		<card id="0"  x="0"   y="0"  z="0" buffer_card="0"  estateid="1"  />
+		<card id="1"  x="2"   y="7"  z="1" buffer_card="0"  estateid="3"  />
+		<card id="2"  x="16"  y="0"  z="0" buffer_card="1"  estateid="6"  />
+		<card id="3"  x="18"  y="7"  z="1" buffer_card="1"  estateid="8"  />
+		<card id="4"  x="20"  y="14" z="2" buffer_card="1"  estateid="9"  />
+		<card id="5"  x="34"  y="0"  z="0" buffer_card="2"  estateid="11" />
+		<card id="6"  x="36"  y="7"  z="1" buffer_card="2"  estateid="13" />
+		<card id="7"  x="38"  y="14" z="2" buffer_card="2"  estateid="14" />
+		<card id="8"  x="52"  y="0"  z="0" buffer_card="3"  estateid="16" />
+		<card id="9"  x="54"  y="7"  z="1" buffer_card="3"  estateid="18" />
+		<card id="10" x="56"  y="14" z="2" buffer_card="3"  estateid="19" />
+		<card id="11" x="70"  y="0"  z="0" buffer_card="4"  estateid="21" />
+		<card id="12" x="72"  y="7"  z="1" buffer_card="4"  estateid="23" />
+		<card id="13" x="74"  y="14" z="2" buffer_card="4"  estateid="24" />
+		<card id="14" x="88"  y="0"  z="0" buffer_card="5"  estateid="26" />
+		<card id="15" x="90"  y="7"  z="1" buffer_card="5"  estateid="27" />
+		<card id="16" x="92"  y="14" z="2" buffer_card="5"  estateid="29" />
+		<card id="17" x="106" y="0"  z="0" buffer_card="6"  estateid="31" />
+		<card id="18" x="108" y="7"  z="1" buffer_card="6"  estateid="32" />
+		<card id="19" x="110" y="14" z="2" buffer_card="6"  estateid="34" />
+		<card id="20" x="124" y="0"  z="0" buffer_card="7"  estateid="37" />
+		<card id="21" x="126" y="7"  z="1" buffer_card="7"  estateid="39" />
+		<card id="22" x="141" y="0"  z="0" buffer_card="8"  estateid="5"  />
+		<card id="23" x="143" y="14" z="1" buffer_card="8"  estateid="15" />
+		<card id="24" x="157" y="0"  z="0" buffer_card="8"  estateid="25" />
+		<card id="25" x="159" y="14" z="1" buffer_card="8"  estateid="35" />
+		<card id="26" x="176" y="14" z="1" buffer_card="9"  estateid="12" />
+		<card id="27" x="174" y="0"  z="0" buffer_card="10" estateid="28" />
+	</display_playercard>
+
+
+	<display_command width="440" height="32">
+		<button buffer_command="0" />
+		<button buffer_command="1" />
+	</display_command>
+
+</gtkatlantic>
